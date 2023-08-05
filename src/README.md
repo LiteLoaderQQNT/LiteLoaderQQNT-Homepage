@@ -14,6 +14,9 @@ actions:
   - text: 文档
     link: https://github.com/mo-jinran/LiteLoaderQQNT
 
+  - text: TG 群
+    link: https://t.me/LiteLoaderQQNT
+
 highlights:
   - header: 为自己定制一个更好的 QQNT
     description: LiteLoader 的队伍正在发展壮大，你也可以参与我们
