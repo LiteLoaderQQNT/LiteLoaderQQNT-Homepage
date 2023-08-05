@@ -2,7 +2,7 @@
 home: true
 icon: home
 # title: 主页
-heroImage: logo.svg
+heroImage: https://avatars.githubusercontent.com/u/66980784
 heroText: LiteLoaderQQNT
 tagline: QQNT 的插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
 heroFullScreen: true
