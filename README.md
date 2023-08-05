@@ -4,5 +4,5 @@
 等待文档、项目图标
 
 临时域名：
-- [llqqnt.mukapp.top](https://llqqnt.mukapp.top/){:target="_blank"}（大陆推荐）
-- [llqqnt.vercel.app](https://llqqnt.vercel.app/){:target="_blank"}
+- <a href="https://llqqnt.mukapp.top/" target="_blank"> llqqnt.mukapp.top </a>（大陆推荐）
+- <a href="https://llqqnt.vercel.app/" target="_blank"> llqqnt.vercel.app </a>
