@@ -12,7 +12,7 @@ actions:
     type: primary
 
   - text: 文档
-    link: https://github.com/mo-jinran/LiteLoaderQQNT
+    link: https://llqn.srap.link
 
   - text: TG 群
     link: https://t.me/LiteLoaderQQNT
