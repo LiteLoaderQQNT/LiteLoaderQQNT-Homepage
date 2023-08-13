@@ -52,6 +52,11 @@ highlights:
         details: 高仿 Telegram 风格的 QQ 主题
         link: https://github.com/festoney8/LiteLoaderQQNT-Telegram-Theme
 
+      - title: 演示模式
+        icon: eye-slash
+        details: 对界面上的元素进行模糊处理以便演示或截图
+        link: https://github.com/qianxuu/LiteLoaderQQNT-Plugin-Demo-mode
+
       - title: 还有更多
         icon: ellipsis
         details: 这里还有许多有趣的插件 / 也期待着你的加入
