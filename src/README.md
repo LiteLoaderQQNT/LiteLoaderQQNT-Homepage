@@ -14,19 +14,14 @@ actions:
   - text: 文档
     link: https://llqn.srap.link
 
-  - text: TG 群
+  - text: Telegram 群
     link: https://t.me/LiteLoaderQQNT
 
 highlights:
   - header: 为自己定制一个更好的 QQNT
-    description: LiteLoader 的队伍正在发展壮大，你也可以参与我们
+    description: LiteLoaderQQNT 的队伍正在发展壮大，你也可以参与我们
     image: /assets/image/customize.svg
     features:
-      - title: 轻量工具箱
-        icon: toolbox
-        details: 添加了一些能提升使用体验的功能
-        link: https://github.com/xiyuesaves/lite_tools
-
       - title: 防撤回插件
         icon: undo
         details: 用于简易的防撤回
