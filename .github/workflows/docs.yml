@@ -7,6 +7,13 @@ on:
   # 手动触发部署
   workflow_dispatch:
 
+permissions: #
+  contents: write
+  packages: write
+  pull-requests: write
+  repository-projects: write
+  statuses: write
+
 jobs:
   docs:
     runs-on: ubuntu-latest
