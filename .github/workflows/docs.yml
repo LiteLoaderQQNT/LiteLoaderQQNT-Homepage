@@ -54,6 +54,7 @@ jobs:
           # 部署目录为 VuePress 的默认输出目录
           build_dir: src/.vuepress/dist
           domain: llqqnt.mukapp.top
+          jekyll: false
         env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
