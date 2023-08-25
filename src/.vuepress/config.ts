@@ -2,7 +2,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/",
+  base: "/LiteLoaderQQNT-Homepage/",
 
   lang: "zh-CN",
   title: "LiteLoaderQQNT",
@@ -12,5 +12,4 @@ export default defineUserConfig({
 
   // Enable it with pwa
   // shouldPrefetch: false,
-
 });
