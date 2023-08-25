@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "https://avatars.githubusercontent.com/u/66980784",
 
-  repo: "mo-jinran/LiteLoaderQQNT",
+  repo: "LiteLoaderQQNT/LiteLoaderQQNT",
 
   docsDir: "src",
 

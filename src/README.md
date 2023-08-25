@@ -8,7 +8,7 @@ tagline: QQNT 的插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开
 heroFullScreen: true
 actions:
   - text: 下载
-    link: https://github.com/mo-jinran/LiteLoaderQQNT/releases
+    link: https://github.com/LiteLoaderQQNT/LiteLoaderQQNT/releases
     type: primary
 
   - text: 文档
@@ -60,7 +60,7 @@ highlights:
       - title: 还有更多
         icon: ellipsis
         details: 这里还有许多有趣的插件 / 也期待着你的加入
-        link: https://github.com/mo-jinran/LiteLoaderQQNT
+        link: https://github.com/LiteLoaderQQNT/LiteLoaderQQNT
 
 copyright: Copyright © 2023 LiteLoaderQQNT
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题构建

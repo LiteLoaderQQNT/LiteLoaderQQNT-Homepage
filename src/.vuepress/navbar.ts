@@ -5,6 +5,6 @@ export default navbar([
   // {
   //   text: "文档",
   //   icon: "book",
-  //   link: "https://github.com/mo-jinran/LiteLoaderQQNT",
+  //   link: "https://github.com/LiteLoaderQQNT/LiteLoaderQQNT",
   // },
 ]);
